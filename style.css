@@ -14,6 +14,10 @@ a {
   background: #555555;
 }
 
+figcaption {
+  font-size: 10px;
+  text-align: center;
+}
 
 body {
   width: 100%;
