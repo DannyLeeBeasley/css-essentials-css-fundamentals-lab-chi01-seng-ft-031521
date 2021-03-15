@@ -11,7 +11,10 @@ img {
 a {
   padding-left: 10;
   padding-right: 10;
+  background: #555555;
 }
+
+
 body {
   width: 100%;
   height: 100%;
